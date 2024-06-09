@@ -10,7 +10,7 @@ I'm a Junior Web Developer and a passionate student of Computer Sciences at Univ
 - 👀 I’m interested in AI with more lenguages than Python! Also embbeded systems and microservices with Rust
 - 🔭 I’m currently working on **RESTful APIs** with TS and Rust
 - 🌱 I’m currently learning **Data Science** with Python
-- 👯 I’m looking to collaborate on any project written in Rust! or Julia! or **a lenaguaje that anybodie has heard about**!
+- 👯 I’m looking to collaborate on any project written in Rust! or Julia! or **a lenaguage that anybodie has heard about**!
 - ⛱️📖🏞️ In my free time I do a wide variety of things, from reading literature, to going to walk in nature or learn new things, like german
 - ⚡ Fun fact: there is a specie of seaslug that can do photosyntesis
 
