@@ -1,10 +1,4 @@
 # Hallo! I'm Sebastián
-<div align="center">
-  <img src="https://tenor.com/es/view/rain-pixel-art-cyberpunk-gif-15872056.gif" width="600" height="300"/>
-  <p>Just a cute gif</p>
-</div>
-
-## About me
 I'm a Junior Web Developer and a passionate student of Computer Sciences at Universidad de Oriente. I'm always trying to learn new things and I'm deeply in love with tech and programming, I do a bit of everything! I like challenges and doing weird stuff with weird lenguages.
 
 - 👀 I’m interested in AI with more lenguages than Python! Also embbeded systems and microservices with Rust
